@@ -1,0 +1,4 @@
+[submodule "SjpApi"]
+	path = SjpApi
+	url = git@github.com:banan314/SjpAPI.git
+	branch = goldendict
