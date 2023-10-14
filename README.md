@@ -12,6 +12,14 @@ Before using this tool, make sure you have the following prerequisites installed
 
 - [**GoldenDict**](https://github.com/goldendict/goldendict): Make sure you have GoldenDict installed on your machine. GoldenDict is a feature-rich dictionary lookup program.
 
+## Note
+
+If you only want to use the jar in your GoldenDict, you can skip the installation of the SjpApi submodule and go directly to the [Usage](#usage) section.
+
+Use the jar provided in the release section.
+
+![release.png](img%2Frelease.png)
+
 ## Installation of SjpApi Submodule
 
 1. Navigate to the `SjpApi` submodule directory:
