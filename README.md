@@ -17,7 +17,7 @@ Before using this tool, make sure you have the following prerequisites installed
 1. Navigate to the `SjpApi` submodule directory:
 
    ```bash
-   cd SjpApi
+   cd SjpApi/api
    ```
 
 2. Compile and install the SjpApi submodule to the local Maven repository:
