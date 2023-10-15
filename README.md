@@ -59,7 +59,7 @@ Use the jar provided in the release section.
     - **Enabled**: True
     - **Type**: HTML
     - **Name**: SJP Scraper
-    - **Command line**: `java -jar /path/to/sjp-goldendict-1.0-SNAPSHOT-jar-with-dependencies.jar`
+    - **Command line**: `java -jar /path/to/sjp-goldendict-1.0-SNAPSHOT-jar-with-dependencies.jar %GDWORD%`
 
 ![programs.png](img%2Fprograms.png)
 
